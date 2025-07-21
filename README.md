@@ -82,5 +82,5 @@ Aspiring Data Analyst with hands-on skills in Python, data wrangling, visualizat
 
 ## 📫 Contact
 
-- [LinkedIn]([YOUR-LINKEDIN](https://www.linkedin.com/in/kok-thong-ong-71ab59221/))
+- [LinkedIn](https://www.linkedin.com/in/kok-thong-ong-71ab59221/)
 - [Email](kokthong98@gmail.com)
