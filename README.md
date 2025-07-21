@@ -36,22 +36,13 @@ As a Data Analyst at a global IT consulting firm, I was tasked to analyze develo
 ## 📁 Repository Structure
 
 ibm-data-analyst-capstone/
-├── notebooks/ # Jupyter notebooks: data cleaning, wrangling, EDA, and visualization labs
-├── data/ # Raw and cleaned data (CSV, Excel)
-├── dashboard/ # Dashboard exports (Google Looker Studio, Power BI)
-├── presentation/ # Final project presentation (PowerPoint/PDF)
-└── README.md # This file
+├── notebooks/        # Jupyter notebooks: data cleaning, wrangling, EDA, and visualization labs
+├── data/             # Raw and cleaned data (CSV, Excel)
+├── dashboard/        # Dashboard exports (Google Looker Studio, Power BI)
+├── presentation/     # Final project presentation (PowerPoint/PDF)
+└── README.md         # This file
 
 
----
-
-## 🔍 How to Explore This Repo
-
-- Browse `notebooks/` for step-by-step data analysis and visualization labs.
-- See `data/` for all CSV/Excel files used in the project.<br>
-  *If a dataset exceeds 25MB, [download it here](YOUR-GOOGLE-DRIVE-LINK).*
-- Explore `dashboard/` for static exports (PDF) of dashboards (Looker Studio, Power BI).
-- View the final business presentation in `presentation/`.
 
 ---
 
@@ -79,13 +70,6 @@ ibm-data-analyst-capstone/
 - Multiple visualization and BI tools (Jupyter, Looker Studio, Power BI)
 - Real-world developer survey + job market analysis
 - **Business storytelling:** actionable insights and recommendations
-
----
-
-## ⚠️ Dataset Notice
-
-> Due to GitHub file size limits, large raw datasets (over 25MB) are not stored here.  
-> You can [download them here](YOUR-GOOGLE-DRIVE-LINK) if needed for reproducibility.
 
 ---
 
