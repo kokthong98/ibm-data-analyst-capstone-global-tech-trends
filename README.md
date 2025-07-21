@@ -33,14 +33,15 @@ As a Data Analyst at a global IT consulting firm, I was tasked to analyze develo
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ibm-data-analyst-capstone/
-├── notebooks/        # Jupyter notebooks: data cleaning, wrangling, EDA, and visualization labs
-├── data/             # Raw and cleaned data (CSV, Excel)
-├── dashboard/        # Dashboard exports (Google Looker Studio, Power BI)
-├── presentation/     # Final project presentation (PowerPoint/PDF)
-└── README.md         # Project overview (this file)
+├── notebooks/ # Jupyter notebooks: data cleaning, wrangling, EDA, and visualization labs
+├── data/ # Raw and cleaned data (CSV, Excel)
+├── dashboard/ # Dashboard exports (Google Looker Studio, Power BI)
+├── presentation/ # Final project presentation (PowerPoint/PDF)
+└── README.md # Project overview (this file)
+
 
 
 
