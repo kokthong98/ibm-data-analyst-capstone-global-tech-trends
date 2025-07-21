@@ -40,7 +40,7 @@ ibm-data-analyst-capstone/
 ├── data/             # Raw and cleaned data (CSV, Excel)
 ├── dashboard/        # Dashboard exports (Google Looker Studio, Power BI)
 ├── presentation/     # Final project presentation (PowerPoint/PDF)
-└── README.md         # This file
+└── README.md         # Project overview (this file)
 
 
 
